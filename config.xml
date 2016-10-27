@@ -100,9 +100,9 @@
      <access origin="http://127.0.0.1*"/>
     <access origin="http://devgeeks.org"/>
     <access origin="http://*.phonegap.com"/>
-	<access origin="http://10.0.6.104*"/>
-	<access origin="http://10.0.6.104"/>
-	<allow-navigation href="http://10.0.6.104/*" />
+	<access origin="http://10.0.0.3*"/>
+	<access origin="http://10.0.0.3"/>
+	<allow-navigation href="http://10.0.0.3/*" />
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
   <allow-intent href="tel:*"/>
